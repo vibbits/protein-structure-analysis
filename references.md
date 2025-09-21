@@ -35,6 +35,7 @@ Foldseek: https://pubmed.ncbi.nlm.nih.gov/36408459/
 [The Art and Science of Molecular Docking](https://www.annualreviews.org/content/journals/10.1146/annurev-biochem-030222-120000)
 [Ten tips and tricks for molecular docking](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013030)
 [Comparative analysis of virtual screening approaches](https://doi.org/10.1038/s42256-025-00993-0) (paywall)
+[EnsembleFlex](https://github.com/chembl/EnsembleFlex)
 
 1. transmembrane proteins
 [paper TMVisDB](https://www.sciencedirect.com/science/article/pii/S0022283625000634#da005)
