@@ -1,0 +1,42 @@
+{
+  "title": "Exploring protein structures: from analysis to prediction",
+  "version": "v2025.09",
+  "license": "CC-BY",
+  "upload_type": "lesson",
+  "description": "<p>Understanding protein structure is key to unlocking biological function and interactions. This two-day course introduces the fundamental principles of protein structure analysis and prediction for researchers who are new to the field. You will learn how to explore, compare, and visualize protein structures and gain insights into modern prediction methods. The training also covers approaches for designing protein variants and studying protein-protein interactions, combining theory with extensive hands-on practice. </p>",
+  "keywords": [
+    "3D Protein structure",
+    "Primary structure",
+    "Secondary structure",
+    "MutateX",
+    "FoldSeek",
+    "Protein Databanl"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "VIB",
+      "type": "rightsholder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Botzki, Alexander",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-6691-4233",
+      "type": "contactperson"
+    },
+    {
+      "name": "Mathys, Janick",
+      "affiliation": "VIB",
+      "orcid": "0009-0007-1722-2370",
+      "type": "contactperson"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "vib-training-conferences"
+    }
+  ]
+}
