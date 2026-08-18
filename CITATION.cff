@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this lesson, please cite it as below."
+authors:
+- given-names: Alexander
+  family-names: Botzki
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+- given-names: Janick
+  family-names: Mathys
+  affiliation: VIB
+  orcid: 0009-0007-1722-2370
+contact:
+- given-names: Alexander
+  family-names: Botzki
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+title: ""
+version: v1.0.0
+doi: ~
+date-released: 2025-10-10
+keywords:
+- Protein structure
+- Protein databank
+- FoldSeek
+- FoldX
+- MutateX
+license: CC-BY
+repository-code: https://github.com/vib-training-conferences/protein-structure-analysis
+type: lesson
+abstract: "Understanding protein structure is key to unlocking biological function and interactions. This two-day course introduces the fundamental principles of protein structure analysis and prediction for researchers who are new to the field. You will learn how to explore, compare, and visualize protein structures and gain insights into modern prediction methods. The training also covers approaches for designing protein variants and studying protein-protein interactions, combining theory with extensive hands-on practice."
+identifiers:
+- type: url
+  value: https://github.com/vib-training-conferences/protein-structure-analysis
+  version: v2025.10
